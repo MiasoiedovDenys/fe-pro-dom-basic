@@ -16,4 +16,4 @@ export const findElement = () => {
             elementLi = elementLi.nextElementSibling;
         }
     }
-};
+}
